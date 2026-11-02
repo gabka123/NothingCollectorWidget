@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Collector Widget</string>
+    <string name="widget_description">Фотография без белой обводки</string>
+</resources>
